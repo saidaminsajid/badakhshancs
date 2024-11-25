@@ -10,7 +10,7 @@
 
 
 <?php
-$con = mysql_connect("localhost","root","");
+$con = mysql_connect("badakhshancs.mysql.database.azure.com","sajid","Aminweb@2025");
 mysql_select_db("badakhshancs");
 $f = 0;
 
@@ -138,8 +138,7 @@ $f = 1;
 
 
 <?php
-
-$con = mysql_connect("localhost","root","");
+$con = mysql_connect("badakhshancs.mysql.database.azure.com","sajid","Aminweb@2025");
 mysql_select_db("badakhshancs");
 $command = "SELECT * FROM student";
 
