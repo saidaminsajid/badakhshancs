@@ -1,2 +1,0 @@
-# badakhshancs
-my web
