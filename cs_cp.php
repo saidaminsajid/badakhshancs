@@ -132,7 +132,7 @@
 <?php
 session_start();
 
-$con  = mysql_connect("localhost","root","");
+$con = mysql_connect("badakhshancs.mysql.database.azure.com","sajid","Aminweb@2025");
 mysql_select_db("badakhshancs");
 if(isset($_POST["username"])){
 $username = $_POST["username"];
