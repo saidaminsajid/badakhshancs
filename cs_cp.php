@@ -5,7 +5,7 @@
 <meta http-equiv="auther" ="Sayedamin Sajid" />
 <meta http-equiv="genraticontenton" content="Dreamweaver" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>دانشگاه بدخشان دانشکده کمپیوترساینس</title>
+<title>Computer Science of Faculty</title>
 <link href="style/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body dir="rtl">
