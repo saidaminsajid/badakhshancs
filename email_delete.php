@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>دانشگاه بدخشان دانشکده کمپیوترساینس</title>
+<title>Computer Science of Faculty</title>
 </head>
 
 <body>
 </body>
 </html>
 <?php
-$con = mysql_connect("localhost","root","");
+$con = mysql_connect("badakhshancs.mysql.database.azure.com","sajid","Aminweb@2025");
 mysql_select_db("badakhshancs");
 $id;
 if(isset($_GET["id"])){
